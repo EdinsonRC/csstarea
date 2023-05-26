@@ -1,0 +1,51 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkblue;
+  text-decoration: underline;
+  text-align: center;
+}
+
+img.logo {
+  width: 200px;
+  float: left;
+}
+
+.definicioncss {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.adicional {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.selector {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  /* font-weight: lighter; */
+}
+
+h2.titulo2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: brown;
+  text-align: center;
+  text-decoration: underline;
+}
+
+img.select {
+  width: 450px;
+}
+
+.reglascss {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 25px;
+}
+
+h4.subtitulo {
+  color: crimson;
+  font-size: 30px;
+  text-decoration: underline;
+}
